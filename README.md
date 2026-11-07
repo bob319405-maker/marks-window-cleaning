@@ -8,7 +8,7 @@ browser, or upload the folder to any web host.
 
 ```
 index.html        page content
-css/styles.css    all styling (brand colours are at the top as CSS variables)
+css/styles.css    all styling (theme colours are at the top as CSS variables)
 js/main.js        mobile menu, header shadow, scroll-in animation
 images/           favicon (put downloaded photos here too, see below)
 ```
